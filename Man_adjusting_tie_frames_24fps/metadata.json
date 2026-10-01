@@ -1,0 +1,8 @@
+{
+  "source_fps": 24.0,
+  "extracted_fps": 24,
+  "frames": 240,
+  "resolution": "1280x720",
+  "format": "PNG (lossless)",
+  "note": "Frames extracted at the video's native 24 fps; no frame interpolation or resizing was applied."
+}
